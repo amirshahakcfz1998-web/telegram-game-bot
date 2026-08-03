@@ -1,0 +1,10 @@
+name = "telegram-game-bot"
+main = "worker.js"
+compatibility_date = "2026-08-02"
+
+[[kv_namespaces]]
+binding = "GAMEDB"
+id = "ee1105ea1d8a4fda947f93845cbc8e75"
+
+[vars]
+BASE_URL = "https://telegram-game-bot.amirshahakcfz1998.workers.dev"
